@@ -1,0 +1,22 @@
+# Licenses & Third-Party Resources
+
+## Frameworks / Build Tools
+- Vite — MIT License — https://vitejs.dev
+
+## CSS
+- Tailwind CSS — MIT License — https://tailwindcss.com
+
+## Backend / Database
+- Supabase JS Client (@supabase/supabase-js) — MIT License — https://supabase.com
+
+## Fonts
+- None used
+
+## Icons
+- None used
+
+## UI Kits / Starters / Templates
+- None used — built from Vite's vanilla-JS scaffold
+
+## Other Assets
+- None used
