@@ -1,3 +1,7 @@
-team ID : LSGH26 -T002
-problem ID: 06
-event start code : LSH26-8490-C900
+# Event Start Record
+
+- **Team ID:** `LSH26-T002`
+- **Problem ID:** `P06`
+- **Repository:** `lsh26-t002-p06`
+- **Event start code:** `<LSH26-8490-C900>`
+- **Repository created before release:** No 
